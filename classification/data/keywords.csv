@@ -1,0 +1,670 @@
+,keyword,count
+0,Reference proteome,30875
+1,Proteomics identification,13651
+2,Phosphoprotein,10329
+3,Membrane,8060
+4,Cytoplasm,7829
+5,Acetylation,6250
+6,Alternative splicing,5855
+7,3D-structure,5608
+8,Nucleus,5566
+9,Repeat,5035
+10,Metal-binding,4721
+11,Transmembrane,4447
+12,Transmembrane helix,4348
+13,Nucleotide-binding,3951
+14,Direct protein sequencing,3733
+15,Coiled coil,3654
+16,Signal,3622
+17,Transport,3379
+18,Mitochondrion,2963
+19,ATP-binding,2953
+20,Hydrolase,2912
+21,Glycoprotein,2890
+22,Transferase,2832
+23,Disulfide bond,2825
+24,Ubl conjugation,2801
+25,Cell membrane,2397
+26,Zinc,2223
+27,Isopeptide bond,2125
+28,Disease variant,1797
+29,Cytoskeleton,1787
+30,Endoplasmic reticulum,1737
+31,RNA-binding,1710
+32,Secreted,1630
+33,Methylation,1573
+34,Transit peptide,1471
+35,Protein transport,1443
+36,Transcription,1394
+37,Calcium,1333
+38,Oxidoreductase,1315
+39,Transcription regulation,1291
+40,Zinc-finger,1204
+41,Kinase,1152
+42,Ribonucleoprotein,1144
+43,Cell projection,1120
+44,Golgi apparatus,1118
+45,Lipid metabolism,1100
+46,Magnesium,1085
+47,DNA-binding,1029
+48,Lipoprotein,988
+49,Mitochondrion inner membrane,862
+50,Cytoplasmic vesicle,854
+51,Ribosomal protein,853
+52,GTP-binding,846
+53,Endosome,830
+54,Ubl conjugation pathway,809
+55,Actin-binding,802
+56,Protease,755
+57,mRNA processing,743
+58,Cell cycle,704
+59,Developmental protein,629
+60,Cell adhesion,616
+61,Apoptosis,613
+62,mRNA splicing,609
+63,WD repeat,607
+64,Cell junction,589
+65,Ion transport,586
+66,Immunity,582
+67,Differentiation,580
+68,Serine/threonine-protein kinase,563
+69,Chaperone,543
+70,Iron,539
+71,SH3 domain,517
+72,Receptor,515
+73,Chromosome,512
+74,Protein biosynthesis,491
+75,Lysosome,490
+76,Cell division,480
+77,Microtubule,472
+78,Activator,468
+79,Synapse,467
+80,Host-virus interaction,453
+81,Ligase,450
+82,NAD,449
+83,Repressor,440
+84,Innate immunity,435
+85,Isomerase,409
+86,DNA damage,408
+87,Extracellular matrix,389
+88,Lipid-binding,376
+89,Lyase,371
+90,DNA repair,367
+91,Palmitate,364
+92,Electron transport,362
+93,EGF-like domain,360
+94,Flavoprotein,357
+95,Immunoglobulin domain,356
+96,Intellectual disability,344
+97,Manganese,342
+98,NADP,337
+99,FAD,334
+100,Calmodulin-binding,332
+101,Mitochondrion outer membrane,326
+102,Spliceosome,320
+103,Motor protein,319
+104,Mitosis,317
+105,Lipid biosynthesis,312
+106,Fatty acid metabolism,307
+107,Neurogenesis,302
+108,Signal-anchor,298
+109,Helicase,294
+110,Chromatin regulator,277
+111,Myristate,276
+112,ANK repeat,274
+113,Prenylation,272
+114,ER-Golgi transport,269
+115,TPR repeat,268
+116,Hydroxylation,262
+117,Neurodegeneration,259
+118,Methyltransferase,258
+119,Leucine-rich repeat,258
+120,Autophagy,255
+121,Acyltransferase,255
+122,Thiol protease,249
+123,Respiratory chain,247
+124,Muscle protein,244
+125,Proteasome,243
+126,S-adenosyl-L-methionine,240
+127,GTPase activation,239
+128,Protein phosphatase,234
+129,Guanine-nucleotide releasing factor,233
+130,LIM domain,232
+131,Carbohydrate metabolism,232
+132,Lipid transport,229
+133,Endocytosis,226
+134,Translocation,219
+135,Translation regulation,210
+136,mRNA transport,208
+137,Metalloprotease,206
+138,Zymogen,205
+139,Translocase,205
+140,Wnt signaling pathway,203
+141,SH2 domain,194
+142,Glycosyltransferase,193
+143,Peroxisome,193
+144,Biological rhythms,189
+145,Transducer,189
+146,Iron-sulfur,188
+147,Myosin,186
+148,Initiation factor,186
+149,Serine protease,185
+150,Intermediate filament,185
+151,Cleavage on pair of basic residues,182
+152,Heme,173
+153,Aminoacyl-tRNA synthetase,172
+154,Primary mitochondrial disease,172
+155,ADP-ribosylation,169
+156,Lipid degradation,166
+157,Redox-active center,165
+158,Glycolysis,160
+159,Stress response,156
+160,Protease inhibitor,150
+161,Proto-oncogene,147
+162,Ion channel,147
+163,Angiogenesis,146
+164,Sarcoplasmic reticulum,142
+165,Nucleotidyltransferase,142
+166,Hydrogen ion transport,141
+167,DNA replication,141
+168,Copper,140
+169,Allosteric enzyme,140
+170,Nuclease,140
+171,Multifunctional enzyme,138
+172,Tyrosine-protein kinase,138
+173,Pyridoxal phosphate,137
+174,tRNA processing,135
+175,Chromosomal rearrangement,134
+176,rRNA processing,134
+177,Cilium,133
+178,Steroid metabolism,132
+179,Spermatogenesis,132
+180,Centromere,132
+181,Potassium,131
+182,Glycosidase,131
+183,Epilepsy,130
+184,Inflammatory response,129
+185,S-nitrosylation,129
+186,Heparin-binding,127
+187,Tricarboxylic acid cycle,127
+188,Lectin,126
+189,Rotamase,126
+190,Deafness,125
+191,Ribosome biogenesis,125
+192,Sterol metabolism,121
+193,Sushi,119
+194,Calcium transport,119
+195,Blood coagulation,118
+196,Hemostasis,118
+197,Alternative initiation,118
+198,Tumor suppressor,117
+199,Cholesterol metabolism,112
+200,Coated pit,112
+201,Nitration,112
+202,Antiviral defense,111
+203,Citrullination,110
+204,4Fe-4S,110
+205,Fatty acid biosynthesis,110
+206,Tight junction,109
+207,Dioxygenase,107
+208,Collagen,105
+209,SH3-binding,105
+210,Proteoglycan,103
+211,Microsome,102
+212,Phospholipid metabolism,102
+213,Nuclear pore complex,101
+214,Kinetochore,100
+215,Basement membrane,99
+216,Lipid droplet,97
+217,Exocytosis,97
+218,Glycogen metabolism,95
+219,Integrin,94
+220,Phospholipid biosynthesis,94
+221,Neuropathy,93
+222,Adaptive immunity,93
+223,Dwarfism,93
+224,Amino-acid biosynthesis,92
+225,Serine protease inhibitor,91
+226,Sodium,90
+227,GPI-anchor,89
+228,Steroid biosynthesis,89
+229,Aminopeptidase,88
+230,Annexin,87
+231,Oxidation,86
+232,Cilium biogenesis/degradation,85
+233,Ubiquinone,84
+234,Keratin,83
+235,Complement pathway,83
+236,DNA recombination,83
+237,Cardiomyopathy,82
+238,Calcium/phospholipid-binding,82
+239,Actin capping,81
+240,Endonuclease,81
+241,Growth factor,79
+242,Peroxidase,77
+243,Sodium transport,77
+244,Potassium transport,76
+245,Pyrrolidone carboxylic acid,74
+246,Dynein,74
+247,Voltage-gated channel,74
+248,Synaptosome,74
+249,RNA-mediated gene silencing,72
+250,Nucleosome core,72
+251,Postsynaptic cell membrane,69
+252,Bromodomain,66
+253,One-carbon metabolism,66
+254,Sterol biosynthesis,65
+255,Nucleotide metabolism,65
+256,Aminotransferase,64
+257,Alternative promoter usage,64
+258,rRNA-binding,63
+259,Laminin EGF-like domain,63
+260,Sulfation,62
+261,Monooxygenase,62
+262,tRNA-binding,62
+263,Exonuclease,61
+264,Selenocysteine,60
+265,Nonsense-mediated mRNA decay,60
+266,Chromosome partition,60
+267,Cataract,60
+268,Elongation factor,59
+269,DNA-directed RNA polymerase,59
+270,ATP synthesis,58
+271,Antiport,57
+272,cAMP,56
+273,Calcium channel,56
+274,Cholesterol biosynthesis,56
+275,Acute phase,56
+276,2Fe-2S,56
+277,Homeobox,55
+278,Purine biosynthesis,55
+279,Chloride,55
+280,Glucose metabolism,54
+281,HDL,54
+282,Thiamine pyrophosphate,54
+283,Symport,54
+284,Chemotaxis,53
+285,Gamma-carboxyglutamic acid,52
+286,Meiosis,52
+287,Serine esterase,52
+288,Flagellum,51
+289,Antioxidant,51
+290,Mitochondrion nucleoid,51
+291,CF(0),50
+292,Cell shape,50
+293,Thick filament,49
+294,Cytokine,49
+295,Notch signaling pathway,49
+296,Carboxypeptidase,48
+297,Transmembrane beta strand,47
+298,Growth regulation,46
+299,Non-syndromic deafness,46
+300,Pyruvate,45
+301,Charcot-Marie-Tooth disease,44
+302,Antimicrobial,43
+303,Host cell receptor for virus entry,42
+304,Heparan sulfate,42
+305,FMN,42
+306,Myogenesis,42
+307,Protein phosphatase inhibitor,41
+308,Vitamin C,41
+309,Decarboxylase,41
+310,Thiol protease inhibitor,40
+311,CBS domain,40
+312,Amyloid,40
+313,Hereditary spastic paraplegia,39
+314,Cobalt,38
+315,Glutamine amidotransferase,37
+316,Ubiquinone biosynthesis,37
+317,Kringle,37
+318,Heme biosynthesis,37
+319,Unfolded protein response,36
+320,Complement alternate pathway,35
+321,cAMP-binding,35
+322,Retinitis pigmentosa,34
+323,Sphingolipid metabolism,34
+324,Exosome,34
+325,Biotin,33
+326,Nucleotide biosynthesis,33
+327,Gluconeogenesis,33
+328,Leukodystrophy,33
+329,Diabetes mellitus,33
+330,Schiff base,32
+331,Signalosome,32
+332,Porin,32
+333,Sensory transduction,32
+334,Porphyrin biosynthesis,32
+335,Autocatalytic cleavage,31
+336,Congenital disorder of glycosylation,31
+337,Osteogenesis,31
+338,Phagocytosis,31
+339,Antibiotic,31
+340,Growth factor binding,31
+341,Kelch repeat,30
+342,Virion,29
+343,Limb-girdle muscular dystrophy,29
+344,Mitogen,29
+345,Hormone,29
+346,Cytolysis,29
+347,Methionine biosynthesis,28
+348,Gastrulation,28
+349,Pyrimidine biosynthesis,28
+350,Membrane attack complex,28
+351,Amyotrophic lateral sclerosis,28
+352,Lipoyl,27
+353,Viral nucleoprotein,27
+354,Ciliopathy,27
+355,Prostaglandin metabolism,27
+356,Iron transport,27
+357,Chloride channel,27
+358,VLDL,26
+359,Sodium/potassium transport,26
+360,Amino-acid transport,26
+361,Hereditary hemolytic anemia,26
+362,Signal transduction inhibitor,26
+363,Signal recognition particle,26
+364,Parkinsonism,26
+365,CF(1),26
+366,Obesity,25
+367,Ligand-gated ion channel,25
+368,Oxygen transport,25
+369,Vision,25
+370,Pyridine nucleotide biosynthesis,25
+371,Chylomicron,24
+372,Purine salvage,24
+373,Sialic acid,24
+374,Glycogen biosynthesis,24
+375,Dystonia,24
+376,Thioester bond,24
+377,Molybdenum,24
+378,Fibrinolysis,23
+379,Prostaglandin biosynthesis,23
+380,Ectodermal dysplasia,23
+381,cGMP,23
+382,Telomere,23
+383,Glutathione biosynthesis,22
+384,Sugar transport,22
+385,Vasoactive,22
+386,Autism spectrum disorder,22
+387,Selenium,21
+388,Glycogen storage disease,21
+389,Fertilization,21
+390,GPI-anchor biosynthesis,20
+391,Biomineralization,20
+392,Isoprene biosynthesis,20
+393,Molybdenum cofactor biosynthesis,20
+394,G-protein coupled receptor,20
+395,Protein kinase inhibitor,20
+396,Ichthyosis,20
+397,Glutathionylation,20
+398,Amyloidosis,20
+399,Phosphopantetheine,19
+400,Potassium channel,19
+401,Hearing,19
+402,Metalloenzyme inhibitor,19
+403,Spinocerebellar ataxia,19
+404,Lissencephaly,19
+405,Branched-chain amino acid catabolism,18
+406,Diamond-Blackfan anemia,18
+407,Threonine protease,18
+408,Hypotrichosis,18
+409,Neurotransmitter degradation,18
+410,DNA-directed DNA polymerase,18
+411,Prenyltransferase,18
+412,Urea cycle,18
+413,Leigh syndrome,17
+414,GMP biosynthesis,17
+415,Copper transport,17
+416,Metalloprotease inhibitor,17
+417,Gap junction,17
+418,Congenital muscular dystrophy,17
+419,Nickel,17
+420,Phenylalanine catabolism,17
+421,Tyrosine catabolism,17
+422,Parkinson disease,17
+423,Topoisomerase,16
+424,TPQ,16
+425,Branched-chain amino acid biosynthesis,16
+426,Palmoplantar keratoderma,16
+427,Osteogenesis imperfecta,16
+428,Lithium,15
+429,Catecholamine metabolism,15
+430,Zinc transport,15
+431,Transcription termination,15
+432,Sodium channel,15
+433,Leukotriene biosynthesis,15
+434,Serine protease homolog,15
+435,mRNA capping,14
+436,RNA editing,14
+437,Serine biosynthesis,14
+438,Blood group antigen,14
+439,DNA synthesis,14
+440,Alzheimer disease,14
+441,Proline biosynthesis,14
+442,Tetrahydrobiopterin biosynthesis,14
+443,Glyoxylate bypass,14
+444,Peroxisome biogenesis,13
+445,LDL,13
+446,Pharmaceutical,13
+447,Aspartyl protease,13
+448,Hypusine,13
+449,Coenzyme A biosynthesis,13
+450,Anion exchange,13
+451,Hyaluronic acid,13
+452,Phospholipase A2 inhibitor,13
+453,Aortic aneurysm,12
+454,Steroid-binding,12
+455,Pentose shunt,12
+456,Plasminogen activation,12
+457,Cobalamin,12
+458,cGMP biosynthesis,12
+459,Retinol-binding,12
+460,Ehlers-Danlos syndrome,11
+461,Necrosis,11
+462,Detoxification,11
+463,Epidermolysis bullosa,11
+464,Thrombophilia,11
+465,Autism,11
+466,Triplet repeat expansion,11
+467,Primary microcephaly,11
+468,cAMP biosynthesis,11
+469,Iron storage,11
+470,Protein synthesis inhibitor,11
+471,Cyclin,11
+472,Albinism,11
+473,Glycation,11
+474,Myofibrillar myopathy,10
+475,Fucose metabolism,10
+476,Dipeptidase,10
+477,Vasodilator,10
+478,Williams-Beuren syndrome,10
+479,Microphthalmia,10
+480,Oogenesis,10
+481,Collagen degradation,10
+482,Tissue remodeling,10
+483,Hermansky-Pudlak syndrome,10
+484,Age-related macular degeneration,10
+485,Mucopolysaccharidosis,10
+486,Vitamin A,10
+487,Long QT syndrome,10
+488,Purine metabolism,9
+489,Bardet-Biedl syndrome,9
+490,Tumor antigen,9
+491,Nemaline myopathy,9
+492,Hydrogen peroxide,9
+493,Schizophrenia,9
+494,cGMP-binding,9
+495,Proline metabolism,9
+496,Leber hereditary optic neuropathy,9
+497,Corneal dystrophy,9
+498,Quinone,9
+499,Craniosynostosis,9
+500,Vitamin D,9
+501,Galactose metabolism,8
+502,Amidation,8
+503,Aromatic hydrocarbons catabolism,8
+504,Progressive external ophthalmoplegia,8
+505,Erythrocyte maturation,8
+506,Folate-binding,8
+507,LTQ,8
+508,Hypogonadotropic hypogonadism,8
+509,Phosphate transport,8
+510,Atrial fibrillation,8
+511,Bait region,8
+512,Arginine biosynthesis,8
+513,Intrahepatic cholestasis,8
+514,Complement activation lectin pathway,7
+515,Glaucoma,7
+516,Congenital myasthenic syndrome,7
+517,Neuropeptide,7
+518,Neurotransmitter transport,7
+519,Mannose-binding,7
+520,Gluconate utilization,7
+521,Peroxisome biogenesis disorder,7
+522,Eye lens protein,7
+523,Digestion,7
+524,Prion,7
+525,Hemoglobin-binding,7
+526,Dystroglycanopathy,7
+527,Glycerol metabolism,7
+528,Elliptocytosis,6
+529,Joubert syndrome,6
+530,Oncogene,6
+531,Cushing syndrome,6
+532,Emery-Dreifuss muscular dystrophy,6
+533,Deoxyribonucleotide synthesis,6
+534,3Fe-4S,6
+535,SCID,6
+536,Steroidogenesis,6
+537,Cone-rod dystrophy,6
+538,Atrial septal defect,6
+539,Leber congenital amaurosis,6
+540,Hemolytic uremic syndrome,6
+541,Cysteine biosynthesis,5
+542,Polyamine biosynthesis,5
+543,Neuronal ceroid lipofuscinosis,5
+544,Catecholamine biosynthesis,5
+545,Allergen,5
+546,DNA condensation,5
+547,Gangliosidosis,5
+548,Vasoconstrictor,5
+549,Atherosclerosis,5
+550,Thyroid hormone,5
+551,Kallmann syndrome,5
+552,Inflammasome,5
+553,Brugada syndrome,5
+554,Immunoglobulin,5
+555,Cobalt transport,5
+556,Hyperlipidemia,5
+557,Systemic lupus erythematosus,5
+558,Hereditary nonpolyposis colorectal cancer,5
+559,MHC I,5
+560,Histidine biosynthesis,5
+561,Arginine metabolism,5
+562,DNA excision,5
+563,Hypusine biosynthesis,4
+564,Aicardi-Goutieres syndrome,4
+565,B-cell activation,4
+566,Behavior,4
+567,Phospholipid degradation,4
+568,Mineral balance,4
+569,Carnitine biosynthesis,4
+570,Dyskeratosis congenita,4
+571,Nephronophthisis,4
+572,Zellweger syndrome,4
+573,Histidine metabolism,4
+574,Peptide transport,4
+575,Keratinization,4
+576,Glutaricaciduria,4
+577,Chronic granulomatous disease,4
+578,Alport syndrome,4
+579,Chondrogenesis,4
+580,Chromophore,4
+581,Neurotransmitter biosynthesis,3
+582,Pyridoxine biosynthesis,3
+583,Maple syrup urine disease,3
+584,Congenital hypothyroidism,3
+585,Xylose metabolism,3
+586,Target cell membrane,3
+587,Target membrane,3
+588,Olfaction,3
+589,IgE-binding protein,3
+590,Hirschsprung disease,3
+591,Ascorbate biosynthesis,3
+592,Congenital dyserythropoietic anemia,3
+593,Asparagine biosynthesis,3
+594,Premature ovarian failure,3
+595,Metachromatic leukodystrophy,3
+596,Congenital generalized lipodystrophy,3
+597,IgG-binding protein,3
+598,MELAS syndrome,3
+599,Inositol biosynthesis,3
+600,Virus entry into host cell,3
+601,Melanin biosynthesis,3
+602,Amelogenesis imperfecta,3
+603,Niemann-Pick disease,3
+604,Rhizomelic chondrodysplasia punctata,3
+605,Osteopetrosis,3
+606,Primary ciliary dyskinesia,3
+607,Holoprosencephaly,3
+608,Xeroderma pigmentosum,3
+609,Spermidine biosynthesis,2
+610,Heterotaxy,2
+611,Hemophilia,2
+612,Asthma,2
+613,Bromination,2
+614,Meckel syndrome,2
+615,Antiviral protein,2
+616,Gout,2
+617,Viral RNA replication,2
+618,Congenital stationary night blindness,2
+619,Sexual differentiation,2
+620,Bacteriolytic enzyme,2
+621,Stickler syndrome,2
+622,Pyropoikilocytosis,2
+623,Septation,2
+624,Gaucher disease,2
+625,Dejerine-Sottas syndrome,2
+626,Ammonia transport,2
+627,Congenital erythrocytosis,2
+628,Kartagener syndrome,2
+629,Mast cell degranulation,2
+630,Desmin-related myopathy,2
+631,Neurotransmitter,2
+632,von Willebrand disease,2
+633,Viral penetration into host nucleus,2
+634,Lactation,2
+635,Cockayne syndrome,2
+636,Usher syndrome,2
+637,Mucolipidosis,2
+638,Familial hemophagocytic lymphohistiocytosis,2
+639,Fanconi anemia,1
+640,Capsid protein,1
+641,Translational shunt,1
+642,Congenital adrenal hyperplasia,1
+643,Luminescence,1
+644,Photoprotein,1
+645,Cytoplasmic inwards viral transport,1
+646,Microtubular inwards viral transport,1
+647,Short QT syndrome,1
+648,Stargardt disease,1
+649,Diabetes insipidus,1
+650,Hypotensive agent,1
+651,Growth arrest,1
+652,Senior-Loken syndrome,1
+653,Bence-Jones protein,1
+654,Vacuole,1
+655,Bernard Soulier syndrome,1
+656,Pseudohermaphroditism,1
+657,RNA-directed RNA polymerase,1
+658,Inhibition of host innate immune response by virus,1
+659,Inhibition of host interferon signaling pathway by virus,1
+660,Inhibition of host STAT1 by virus,1
+661,Inhibition of host STAT2 by virus,1
+662,Viral immunoevasion,1
+663,Phenylketonuria,1
+664,Pregnancy,1
+665,Pontocerebellar hypoplasia,1
+666,Thioether bond,1
+667,Primary hypomagnesemia,1
+668,Bartter syndrome,1
