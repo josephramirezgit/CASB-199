@@ -1,140 +1,147 @@
-,entity,start,end,entity-type,PMID
-0,roblasts returned ADAMTS5,155,180,Disease,34806902
-1,ospond,229,235,Species,34806902
-2,t abund,265,272,Gene,34806902
-3,t proteases. ADAMTS5 cleaves chondroitin sulphate proteoglycans ,274,338,Gene,34806902
-4,n of AD,379,386,Gene,34806902
-5, its substrate versi,395,415,Chemical,34806902
-6,sed in ,476,483,Gene,34806902
-7,ECM ,575,579,Species,34806902
-8,amples ,612,619,Gene,34806902
-9,om HF p,621,628,Gene,34806902
-10,t of HF.,719,727,Species,34806902
-11,ury and ,926,934,Species,34806902
-12, murine h,936,945,Chemical,34806902
-13,ion. In Adamts5 ,986,1002,Disease,34806902
-14,esulte,1029,1035,Species,34806902
-15,ild-up,1065,1071,Gene,34806902
-16, acid d,1086,1093,Gene,34806902
-17,ange,1098,1102,Species,34806902
-18,"nt, ac",1104,1110,Gene,34806902
-19,and connexin 43,1168,1183,Chemical,34806902
-20, revealed a red,1233,1248,Gene,34806902
-21,ed ejecti,1250,1259,Gene,34806902
-22,action and ,1264,1275,Gene,34806902
-23,rain up,1309,1316,Gene,34806902
-24,g II,1321,1325,Species,34806902
-25,rmate ,1411,1417,Gene,34806902
-26,n a proteomics anal,1428,1447,Disease,34806902
-27, with ve,1600,1608,Species,34806902
-28,"l characteristics, HF pat",1809,1834,Gene,34806902
-29,ults in ,1923,1931,Species,34806902
-30,nd that ,2041,2049,Species,34806902
-31,F patients revealed that ,2182,2207,Disease,34806902
-32, the car,2276,2284,Species,34806902
-33,pathological cardia,144,163,Disease,33998164
-34,ate the effec,226,239,Disease,33998164
-35,tide-binding protei,289,308,Disease,33998164
-36,uman ,392,397,Gene,33998164
-37,pertrophic heart samples compared with nonhy,399,443,Gene,33998164
-38,ophic samples by ma,448,467,Disease,33998164
-39,ectrometry an,472,485,Disease,33998164
-40,t1 kn,496,501,Gene,33998164
-41,enged,523,528,Species,33998164
-42,with transverse ao,529,547,Disease,33998164
-43,trave,625,630,Gene,33998164
-44,tion,640,644,Species,33998164
-45,ere s,741,746,Gene,33998164
-46,bjec,747,751,Species,33998164
-47,truction. Unbiased trans,780,804,Species,33998164
-48,ipti,806,810,Species,33998164
-49,es we,821,826,Gene,33998164
-50,iden,837,841,Gene,33998164
-51,troph,1004,1009,Gene,33998164
-52,were,1011,1015,Species,33998164
-53,equen,1038,1043,Gene,33998164
-54,ng analysis,1045,1056,Gene,33998164
-55,iptom,1114,1119,Gene,33998164
-56,ofile.Coimmunopreci,1123,1142,Disease,33998164
-57,on as,1148,1153,Gene,33998164
-58,nts a,1375,1380,Gene,33998164
-59,d hyp,1409,1414,Gene,33998164
-60,. In ,1442,1447,Gene,33998164
-61,deteriorated,1489,1501,Disease,33998164
-62,after tr,1502,1510,Species,33998164
-63,"versely, car",1543,1555,Disease,33998164
-64,iac-,1556,1560,Species,33998164
-65,sion ,1579,1584,Gene,33998164
-66,levi,1595,1599,Species,33998164
-67,ed cardiac hypertrophy and dysfu,1601,1633,Disease,33998164
-68, HINT,1719,1724,Gene,33998164
-69,ardioprotective role of HINT1 was a,1736,1771,Disease,33998164
-70,o aff,1830,1835,Gene,33998164
-71,hroug,1852,1857,Gene,33998164
-72, fact,1892,1897,Gene,33998164
-73,thway,1915,1920,Gene,33998164
-74,1 inh,1940,1945,Gene,33998164
-75,inase C bet,1971,1982,Disease,33998164
-76,brane tr,1995,2003,Gene,33998164
-77,ng th,2068,2073,Gene,33998164
-78,g H,2207,2210,Gene,33998164
-79,XA5,2211,2214,Gene,33998164
-80,exp,2215,2218,Gene,33998164
-81,ppres,2341,2346,Gene,33998164
-82,dicate that HINT1 m,2386,2405,Disease,33998164
-83,al ta,2420,2425,Gene,33998164
-84,ic interventions in,2443,2462,Disease,33998164
-85,and h,2483,2488,Gene,33998164
-86,,1356,1358,Disease,31670476
-87,let,119,122,Gene,34098726
-88,understo,126,134,Chemical,34098726
-89,l fibroblasts were rep,151,173,Disease,34098726
-90,"Cas9, a",238,245,Species,34098726
-91,c an,439,443,Chemical,34098726
-92,dopl,466,470,Chemical,34098726
-93, the ,689,694,Chemical,34098726
-94,r p,823,826,Gene,34098726
-95,eins and,829,837,Chemical,34098726
-96,stress in com,848,861,Disease,34098726
-97, the Ca2+ -binding pro,974,996,Disease,34098726
-98,oty,1050,1053,Gene,34098726
-99, This st,1056,1064,Chemical,34098726
-100,impa,1079,1083,Chemical,34098726
-101,was improved b,1233,1247,Disease,34098726
-102,oca,1288,1291,Gene,34098726
-103,a2+ cycl,1294,1302,Chemical,34098726
-104,ng as an impor,1303,1317,Disease,34098726
-105,m of HF have ,187,200,Disease,31670476
-106,t ,202,204,Disease,31670476
-107, p,954,956,Disease,31670476
-108,e ,603,605,Disease,31670476
-109,dentifie,369,377,Species,31670476
-110,id,386,388,Disease,31670476
-111,chromato,389,397,Species,31670476
-112,di,557,559,Disease,31670476
-113,"e proteins, ",634,646,Disease,31670476
-114,pina3,681,686,Chemical,31670476
-115,"egulated in HF, with HF/non-HF",718,748,Gene,31670476
-116,atio of ,750,758,Gene,31670476
-117,3 ,802,804,Disease,31670476
-118,nt,811,813,Disease,31670476
-119,ve,818,820,Disease,31670476
-120,creased ,867,875,Gene,31670476
-121,"me, we d",1034,1042,Gene,31670476
-122,rt,1057,1059,Disease,31670476
-123,th,1191,1193,Disease,31670476
-124,en,1277,1279,Disease,31670476
-125,res. ,173,178,Species,29484645
-126,tion ,377,382,Species,29484645
-127,tography-tandem mass s,410,432,Disease,29484645
-128,s were twofold highe,938,958,Gene,29484645
-129,"in the SAN than in working cardiomyocytes, and",960,1006,Gene,29484645
-130,wofold higher in the,1112,1132,Gene,29484645
-131,ricle tissue than in SAN. We identified many mitochondrial oxidati,1137,1203,Gene,29484645
-132,We detected upregu,1348,1366,Chemical,29484645
-133, tissue we,1485,1495,Chemical,29484645
-134,nd the smo,1639,1649,Gene,29484645
-135, in-d,100,105,Species,29133944
-136,s con,154,159,Disease,29133944
-137,ac ce,303,308,Species,29133944
-138, The heart map is a,815,834,Disease,29133944
+entity	entity-type	pmid
+hallmark of heart failure	Disease	34806902
+murine	Species	34806902
+ADAMTS5	Gene	34806902
+a disintegrin and metalloproteinase with thrombospondin motifs 5	Gene	34806902
+ADAMTS5	Gene	34806902
+chondroitin sulphate	Chemical	34806902
+ADAMTS5	Gene	34806902
+mice	Species	34806902
+ADAMTS5	Gene	34806902
+Adamts5	Gene	34806902
+patients	Species	34806902
+patients	Species	34806902
+Versikine	Chemical	34806902
+cardiac ischemia	Disease	34806902
+murine	Species	34806902
+Ang II	Gene	34806902
+Adamts5	Gene	34806902
+mice	Species	34806902
+Ang II	Gene	34806902
+hyaluronic acid	Chemical	34806902
+integrin beta 1	Gene	34806902
+filamin A	Gene	34806902
+connexin 43	Gene	34806902
+Adamts5	Gene	34806902
+mice	Species	34806902
+Ang II	Gene	34806902
+Cardiac hypertrophy	Disease	34806902
+patients	Species	34806902
+beta1-adrenergic receptor	Gene	34806902
+patients	Species	34806902
+patients	Species	34806902
+impaired cardiac function	Disease	34806902
+patients	Species	34806902
+Cardiac hypertrophy	Disease	34098726
+heart failure	Disease	34098726
+cardiac hypertrophy	Disease	34098726
+HINT1	Gene	34098726
+histidine triad nucleotide-binding protein 1	Gene	34098726
+cardiac hypertrophy	Disease	34098726
+heart failure	Disease	34098726
+HINT1	Gene	34098726
+human	Species	34098726
+hypertrophic heart	Disease	34098726
+Hint1	Gene	34098726
+mice	Species	34098726
+HINT1	Gene	34098726
+mice	Species	34098726
+adeno-associated virus 9	Species	34098726
+AAV9	Species	34098726
+Hint1	Gene	34098726
+cTnT	Gene	34098726
+HINT1	Gene	34098726
+AAV9	Species	34098726
+Hoxa5	Gene	34098726
+homeobox A5	Gene	34098726
+HINT1	Gene	34098726
+cardiac hypertrophy	Disease	34098726
+HOXA5	Gene	34098726
+HINT1	Gene	34098726
+HOXA5	Gene	34098726
+HINT1	Gene	34098726
+hypertrophic	Disease	34098726
+patients	Species	34098726
+hypertrophic	Disease	34098726
+mice	Species	34098726
+Hint1	Gene	34098726
+mice	Species	34098726
+cardiac hypertrophy deteriorated	Disease	34098726
+HINT1	Gene	34098726
+cardiac hypertrophy and dysfunction	Disease	34098726
+HOXA5	Gene	34098726
+HINT1	Gene	34098726
+HINT1	Gene	34098726
+HOXA5	Gene	34098726
+Hoxa5	Gene	34098726
+hypertrophy	Disease	34098726
+TGF-beta	Gene	34098726
+HINT1	Gene	34098726
+MEK	Gene	34098726
+ERK	Gene	34098726
+YY1	Gene	34098726
+HOXA5	Gene	34098726
+cardiac hypertrophy	Disease	34098726
+HINT1	Gene	34098726
+cardiac hypertrophy	Disease	34098726
+HOXA5	Gene	34098726
+HINT1	Gene	34098726
+cardiac hypertrophy	Disease	34098726
+heart failure	Disease	34098726
+PLN	Gene	33998164
+Arg14del	Chemical	33998164
+dilated cardiomyopathy	Disease	33998164
+Patient	Species	33998164
+Ca2+	Chemical	33998164
+Ca2+	Chemical	33998164
+lipid	Chemical	33998164
+PLN	Gene	33998164
+Arg14del	Chemical	33998164
+heart failure	Disease	33998164
+ischemic heart failure	Disease	33998164
+PLN	Gene	33998164
+Arg14del	Chemical	33998164
+Ca2+	Chemical	33998164
+SR dysfunction	Disease	33998164
+PLN	Gene	33998164
+Arg14del	Chemical	33998164
+cardiomyopathy	Disease	33998164
+Ca2+	Chemical	33998164
+Ca2+	Chemical	33998164
+heart failure	Disease	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+patients	Species	31670476
+HF	Disease	31670476
+patients	Species	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+inflammation	Disease	31670476
+lipid	Chemical	31670476
+serine proteinase inhibitor A3	Gene	31670476
+Serpina3	Gene	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+Serpina3	Gene	31670476
+HF	Disease	31670476
+Serpina3	Gene	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+HF	Disease	31670476
+human	Species	29484645
+human	Species	29484645
+cardiovascular disease	Disease	29484645
+myosin light chain 4	Gene	29484645
+myosin regulatory light chain 2-atrial isoform	Gene	29484645
+myosin light chain 3	Gene	29484645
+myosin regulatory light chain 2-ventricular/cardiac muscle isoform	Gene	29484645
+tricarboxylic acid	Chemical	29484645
+fatty acid	Chemical	29484645
+transgelin	Gene	29484645
+human	Species	29133944
+death	Disease	29133944
+human	Species	29133944
+atrial fibrillation	Disease	29133944
