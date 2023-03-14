@@ -1,0 +1,12 @@
+,entity,start,end,entity-type,PMID
+0,Adamts5,55,62,Gene,34806902
+1,HINT1,0,5,Gene,33998164
+2,Histidine Triad Nucleotide-Binding Protein 1,7,51,Gene,33998164
+3,Cardiac Hypertrophy Via,64,87,Disease,33998164
+4,HOXA5,100,105,Gene,33998164
+5,Homeobox A5,107,118,Gene,33998164
+6,human,64,69,Species,29133944
+7,PLN,75,78,Gene,34098726
+8,p.Arg14del,79,89,Mutation,34098726
+9,patients,43,51,Species,31670476
+10,heart failure,57,70,Disease,31670476
